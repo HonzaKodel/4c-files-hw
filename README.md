@@ -19,7 +19,6 @@ kasa items obsahuje jednoduchý výčet produktů z jednotlivých kategorií z w
 
 Vaším úkolem je vytvořit několik metod pracujících s daty v souboru:
 
-- Vytvořte metodu, která vypíše produkty ve slevě a jejich počet
-- Vytvořte metodu, která sečte celkovou cenu produktů
-- Vytvořte metodu, která vypíše produkty s největší rozdílnou cenou *originalPrice* vs. *currentPrice*
 - Vytvořte metodu, která vytvoří z prvních 50. produktů strom kategorií
+- Vytvořte metodu, která seřadí produkty podle nejnižší ceny
+- Vytvořte medodu, která vypíše pouze zlevněné produkty
